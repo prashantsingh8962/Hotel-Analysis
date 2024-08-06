@@ -7,7 +7,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 # Steps Involved:
 - Understanding business problem
-- Data collection and understandin
+- Data collection
 - Data cleaning and exploration
 - Data transformation
 - Insights generation
